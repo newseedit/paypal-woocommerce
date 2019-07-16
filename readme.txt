@@ -131,7 +131,7 @@ Automatic updates should work great for you.  As always, though, we recommend ba
 * Feature - Multi-Currency Suite compatibility. ([PFW-148](https://github.com/angelleye/paypal-woocommerce/pull/1322))
 * Fix - Resolves an issue with Express Checkout as a Missing Parameter on subscription purchases. ([PFW-418](https://github.com/angelleye/paypal-woocommerce/pull/1316))
 * Fix - Resolves an issue with Express Checkout as a Missing PayerID. ([PFW-437](https://github.com/angelleye/paypal-woocommerce/pull/1332))
-* Fix - Resolves an issue with Express Checkout Billing Agreement Bug. ([PFW-429](https://github.com/angelleye/paypal-woocommerce/pull/1321))
+* Fix - Resolves an issue with Express Checkout Billing Agreement Bug. ([PFW-429](https://github.com/angelleye/paypal-woocommerce/pull/1321)) ([PFW-457](https://github.com/angelleye/paypal-woocommerce/pull/1343))
 * Fix - Resolves an issue where disabling PayPal buttons in mini-cart would sometimes disable them from Woo checkout page as well. ([PFW-430](https://github.com/angelleye/paypal-woocommerce/pull/1324))
 * Fix - Resolves typos in Express Checkout Page Display setting. ([PFW-421](https://github.com/angelleye/paypal-woocommerce/pull/1325))
 * Fix - Resolves an issue with PayPal Payflow where AVS & Card Security Code display Multiple time on Mail. ([PFW-431](https://github.com/angelleye/paypal-woocommerce/pull/1326))
@@ -146,6 +146,7 @@ Automatic updates should work great for you.  As always, though, we recommend ba
 * Tweak - Performance improvements. ([PFW-406](https://github.com/angelleye/paypal-woocommerce/pull/1320))
 * Tweak - Adjustments to prevent duplicate order with Express Checkout. ([#1329](https://github.com/angelleye/paypal-woocommerce/pull/1329))
 * Tweak - Adjustments to Express Checkout Tokenization checkbox html. ([PFW-442](https://github.com/angelleye/paypal-woocommerce/pull/1334))
+* Tweak - Adjustments to Express Checkout PayPal Credit to Enable for all the Country. ([PFW-456](https://github.com/angelleye/paypal-woocommerce/pull/1342))
 
 = 2.0.1 - 05.31.2019 =
 * Feature - Adds autocomplete=new-password to all API credential fields in settings so that password managers will not interfere.  ([PFW-403](https://github.com/angelleye/paypal-woocommerce/pull/1314))
